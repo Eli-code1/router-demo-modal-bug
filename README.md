@@ -1,5 +1,7 @@
 # Instructions to see bug
 
+I created a project based off the default template for `expo-router apps` by running `npx create-expo-app@latest --template tabs@50` and implemented the issue I'm having in my app there. Here's how you can see it!
+
 1. Run the app in Expo Go
 2. Click on the `Stack` tab
 3. Click on `Settings` to open the modal
