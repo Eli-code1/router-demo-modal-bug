@@ -5,6 +5,7 @@ export default function Layout(){
         <Stack>
             <Stack.Screen name="Home" />
             <Stack.Screen name="Settings" options = {{presentation:'modal'}}/>
+            <Stack.Screen name="SecondPage" />
         </Stack>
     );
 }

@@ -5,7 +5,7 @@ export default function Settings() {
     return (
         <View>
             <Text>Settings</Text>
-            <Button title="Open Modal" onPress={() => router.push('/stack/Home')} />
+            <Button title="Open Second Page" onPress={() => router.push('/stack/SecondPage')} />
         </View>
     );
 }
